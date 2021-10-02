@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "~bootstrap/dist/css/bootstrap.css";
+
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --light-blue: #ddebf7;
+  --regular-blue: #bdd7ee;
+  --medium-blue: #2f75b5;
+  --dark-blue: #1f4e78;
+
+  --light-green: #e2f0d9;
+  --regular-green: #d5e9c8;
+
+  --light-gray: #e6e6e6;
+  --regular-gray: #d8d8d8;
+
+  --light-yellow: #fff2cc;
+  --regular-yellow: #ffecb3;
+
+  --alarm-yellow: rgba(255, 193, 7, 0.3);
+
+  --xsm-font: 0.75rem;
+  --sm-font: 0.85rem;
+  --md-font: 1rem;
+
+  --bold: 600;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
